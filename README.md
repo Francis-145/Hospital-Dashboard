@@ -1,5 +1,5 @@
 # 🏥 Hospital Emergency Room Dashboard  
-**Monthly Report - November 2023**
+**Monthly Report - April 2023 - Nov 2024**
 
 ---
 
@@ -59,13 +59,20 @@ The Hospital Emergency Room dashboard provides a comprehensive view of patient i
   - 10–19 years (63 patients)
 
 ---
-
 ## 📌 Final Conclusion  
-The dashboard provides hospital management with clear visibility into ER operations. In November 2023:  
-- Patient admission and referral data indicate balanced inflow across key departments.  
-- **Delays in wait times** (42%) highlight an area for service optimization.  
-- Targeted improvements in staffing and triage processes during peak hours can enhance on-time care.  
-- Special attention should be given to high-volume age groups (30–39 and 60–69) for capacity planning.
+
+This Excel dashboard provides a comprehensive view of hospital emergency room activity with the ability to filter data by **month** and **year** using interactive slicers. .
+
+Key takeaways:
+- A balanced number of patients were admitted and not admitted in this period.
+- The **majority of patients were attended within the target wait time of 30 minutes**, indicating efficient ER response.
+- Most referred departments include **General Practice** and **Orthopedics**.
+- Age groups **30–39** and **60–69 years** showed the highest ER visits.
+- Gender distribution is nearly equal, with a slight female majority.
+
+These insights can vary with different month/year selections, allowing hospital staff to monitor performance trends over time. The dashboard empowers stakeholders to make data-driven decisions for improving emergency services and optimizing patient care operations.
+
+
 
 ---
 
